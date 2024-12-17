@@ -1,0 +1,70 @@
+Cyclic Voltammetry
+System: Windows64
+Software Version: Squidstat User Interface v2.08.01.2024
+Date:  (2024-12-03 15_38_31)
+
+Plus2521, Channel 1
+Firmware version: Aug 01, 2024 Plus / Ace 2.4 firmware
+Firmware checksum: CED286C4
+Potentiostat Stability: Bandwidth Index = 3, Stability Factor = 0.
+
+Working Electrode Status:
+Working electrode is earth grounded.
+
+Data Sampling Options: 
+Maximum data averaging period: 1 s
+Show data sampled during experiment "quiet times":  false
+
+Show data sampled during experiment "rest times":  false
+Experiment Notes and Settings
+Physical Parameters:
+Working Electrode Area (m2): 0
+Working Electrode Mass (g): 0
+Working Electrode Volume (cm3): 0
+Battery Capacity (mAh): 0
+
+Reference Electrode:
+Other Reference Electrode: 
+Working Electrode vs. NHE (V): 0
+
+IR Drop Compensation:
+Uncompensated Resistance (Ohm): 0
+Compensation Level (%): 0
+
+Other Notes:
+
+
+
+Experiment Parameters:
+
+
+Quiet Time Options
+
+Quiet time: N/A
+Quiet time sampling interval: N/A
+
+General Options
+
+Cycles: 5  
+Start a new data file for each cycle?  No
+
+Scanning Options
+
+Starting potential: -10000 mV
+with respect to: reference
+Potential limit 1: 10000 mV
+with respect to: reference
+Potential limit 2: -10000 mV
+with respect to: reference
+Ending potential: 10000 mV
+with respect to: reference
+Scan rate (dE/dt): 4000 mV/s 
+Sampling interval: 100 ms
+α-Factor: 100 % 
+
+Current Ranging
+
+ Autorange
+N/A
+
+
